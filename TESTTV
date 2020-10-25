@@ -133,8 +133,6 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
 #EXTINF:-1 tvg-id="HumMasala.us(m3u4u)" tvg-name="Hum Masala" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Lifestyle" tvg-shift="-24",Hum Masala
 http://iptv.kitv.live:1935/live/Shari/MTV-P/33.m3u8
-#EXTINF:-1 tvg-id="FashionTelevision(English).ca(m3u4u)" tvg-name="Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/120px-Fashion_TV_logo.svg.png" group-title="Lifestyle" tvg-shift="-24",Fashion TV
-https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A3 Bikini Network" tvg-logo="https://oklivetv.com/wp-content/uploads/media/97fce9678a3eaf2df217ec5f40b7b9f4.jpeg" group-title="Lifestyle" tvg-shift="-24",A3 Bikini Network
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name=" Jasmin TV" tvg-logo="https://i.pinimg.com/originals/cd/d0/c8/cdd0c866d1891ef6d29df48762f5f370.gif" group-title="Lifestyle" tvg-shift="-24", Jasmin TV
