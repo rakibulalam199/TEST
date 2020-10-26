@@ -119,8 +119,6 @@ http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
 http://streamitv.multitvsolution.in/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us(m3u4u)" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Infotainment " tvg-shift="-24",Nat Geo Wild
 http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/220px-CGTN_Documentary_logo.png" group-title="Infotainment " tvg-shift="-24",CGTN Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RT Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="Infotainment " tvg-shift="-24",RT Documentary
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 #EXTINF:-1 tvg-id="BBCLifestyle(src01).pl(m3u4u)" tvg-name="BBC Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1280px-BBC_Lifestyle2.svg.png" group-title="Lifestyle" tvg-shift="-24",BBC Lifestyle
