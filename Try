@@ -1267,3 +1267,82 @@ https://prclive1.listenon.in/
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCX0p6w.png" group-title="FM RADIO",BBC FM 4
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+
+========== Digi IPTV Free Playlist =========  
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",110.Star Jalsha
+http://103.205.133.50/hls/chsj.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",113.Star Plus
+http://103.205.133.50/hls/chsp.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladeshi",1.BTV
+http://103.205.133.50/hls/btv.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",3.GTV HD [1]
+http://103.132.180.245:8080/2/index.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",3.GTV HD [2]
+http://103.132.180.245:8080/2/index.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi",4.DBC News
+http://103.205.133.50/hls/dbcnews.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi",5.News 24
+http://103.205.133.50/hls/news24.m3u8
+#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangladeshi",8.CHANNEL 24
+http://103.205.133.50/hls/channel24.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladeshi",9.Channel 9
+http://103.102.136.106:8080/cmcltv/channel9.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladeshi",10.Deepto TV
+http://103.205.133.50/hls/deeptotv.m3u8
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi",11.JAMUNA TV
+http://103.205.133.50/hls/jamunatv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangladeshi",12.Channel I
+http://103.205.133.50/hls/ichannel.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi",13.Maasranga
+http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladeshi",14.SATV
+http://103.205.133.50/hls/satv.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi",15.RTV
+http://103.205.133.50/hls/rtv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi",16.NTV
+http://103.205.133.50/hls/ntv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi",17.Banglavision
+http://103.205.133.50/hls/banglavision.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladeshi",18.Boishakhi
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi",19.ATN Bangla
+http://103.205.133.50/hls/atnbangla.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Bangladeshi",20.ATN News
+http://103.205.133.50/hls/atnnews.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Bangladeshi",21.Duronto TV
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi",22.Ekushey TV
+http://103.205.133.50/hls/ekushey.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi",23.My TV HD
+http://103.205.133.50/hls/mytv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi",24.Gaan Bangla HD
+http://103.205.133.50/hls/gaanbangla.m3u8
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladeshi",25.Bangla TV
+http://103.205.133.50/hls/banglatv.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangladeshi",26.Nagorik TV
+http://103.205.133.50/hls/nagorik.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi",29.MOHONA TV
+http://103.205.133.50/hls/mohonatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R90Dt54/Probashi-Bangla.jpg" group-title="Bangladeshi",30.Probashi Bangla
+http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nmquv1p8p4uffq2/artv.jpg" group-title="Bangladeshi",31.AR TV
+https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKJ6bs4/Channel-t1.png" group-title="Bangladeshi",32.Channel T1
+http://128.199.212.160/channelt1/1080/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/kxFshHZ.png" group-title="Bangladeshi",33.Alif TV
+http://128.199.212.160/alif/1080/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi",34.Channel 23
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6KsBwmAHtmufM3Yd7voJ7vq-5H_mgdWLcP4BGSnznamzn55wreYqbvCPD7dySpWqr7d-au-L2kuZEgTHm225Ovr58Eh7X892i5jFhUl-xpIPPsVaY96yHy9s" group-title="Bangladeshi",35.Deshi TV
+http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/iy8lbyrctvqc4vs/gbanglatv.png" group-title="Bangladeshi",36.G Bangla
+https://iptv8.raytahost.com/lite/gbangla_hi/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Bme0WkM.png" group-title="Bangladeshi",37.Bangla Channel
+http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ASztPbS.png" group-title="Bangladeshi",38.ITV Bangla
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
